@@ -1,4 +1,4 @@
-# IBM-AI-ENG-Prof-Coursera 
+# IBM-AI-Eng-Prof-Coursera 
 
 -----
 
