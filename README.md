@@ -2,9 +2,9 @@
 
 -----
 
-This repository consists of the materials and my project submissions for the `IBM AI Engineering Professional Certificate (V3) Certificate course on Coursera`.
+This repository consists of the materials and my project submissions for the `IBM AI Engineering Professional (V3) Certificate course on Coursera`.
 
-**Context: This coursera course called `IBM AI Engineering Professional Certificate (V3)` consists of 13 courses. Upon successful completion of all the 13 courses one receives the certificate.**
+**Context: This coursera course called `IBM AI Engineering Professional (V3) Certificate` consists of 13 courses. Upon successful completion of all the 13 courses one receives the certificate.**
 
 ## The courses were successfully completed and the certificate can be found on **Credly (by Pearson)** on this **&rarr;** **[link](https://www.credly.com/badges/d8371c92-095d-4829-a77f-f9184f0eac7c)** for verification purposes.
 
@@ -30,7 +30,7 @@ This repository consists of the materials and my project submissions for the `IB
 
 **The course number and the folders are numbered correspondingly, so you can use that to navigate to the specific course folders.**
 <p>
-The courses overall, provide a framework for the leaner to get accustomed to the concepts and workflows of an AI Engineer. Course 1 starts with Machine Learning. The following courses (2-5) introduce the concepts of Deep Learning and Neural Networks (with PyTorch Keras & TensorFlow). Course 6 is a capstone project that tests the skills related to Deep Learning. A CNN integrated with a Vision Transformer (CNN-ViT) is built in this capstone project, and it deals with geospatial land classification (i.e. classify image as either agricultural or non-agricultural land). The Courses (7-12) deals with Gen AI concepts such as NLP, LLMs, Transformers, Fine-tuning transformers, AI Agents, RAG, and LangChain. The Final `Gen AI Capstone project` combines all these concepts such that a Question & Answer (QA) ChatBot is built wherein it uses RAG,LLMs, & LangChain to answer relevant queries (i.e. questions) about a document that is uploaded by the user. In addition, the QA ChatBot uses a Gradio interface such that it is user-friendly and easy to navigate.    	   
+The courses overall, provide a framework for the learner to get accustomed to the concepts and workflows of an AI Engineer. Course 1 starts with Machine Learning. The following courses (2-5) introduce the concepts of Deep Learning and Neural Networks (with PyTorch Keras & TensorFlow). Course 6 is a capstone project that tests the skills related to Deep Learning. A CNN integrated with a Vision Transformer (CNN-ViT) is built in this capstone project, and it deals with geospatial land classification (i.e. classify image as either agricultural or non-agricultural land). The Courses (7-12) deals with Gen AI concepts such as NLP, LLMs, Transformers, Fine-tuning transformers, AI Agents, RAG, and LangChain. The Final `Gen AI Capstone project` combines all these concepts such that a Question & Answer (QA) ChatBot is built wherein it uses RAG, LLMs, & LangChain to answer relevant queries (i.e. questions) about a document that is uploaded by the user. In addition, the QA ChatBot uses a Gradio interface such that it is user-friendly and easy to navigate.    	   
 </p>
 
 -----
